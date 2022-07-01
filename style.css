@@ -8,4 +8,4 @@ body{
 
 .text{ width: 80vw; margin: 5vw 10vw 0 10vw;}
 .text h1{ width: 100%; text-align: center;}
-.text p{ margin-bottom: 12vw;}
+.text p{ margin-bottom: 12vw; opacity: 70%;}
